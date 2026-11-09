@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá Pessoal, eu sou o Adrian! 👋
 
-<!--
-**adrianasaf/adrianasaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência da Computação no UNIPÊ** e **Técnico de TI** em uma empresa de saúde em João Pessoa/PB.
 
-Here are some ideas to get you started:
+O que faço hoje
+- Infraestrutura de TI e suporte técnico
+- Sistemas internos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Objetivo
+Me tornar **Analista de Cibersegurança**.
+
+## 🛠️ Competências
+Windows 
+LGPD 
+Comunicação 
+Resposta a incidentes (básico) 
+Inglês técnico
+
+Projetos
+- **Projeto Integrador – Confere Aí:** app para ajudar idosos a evitar golpes digitais (projeto acadêmico, em andamento)
+
+Contato
+[LinkedIn]: https://www.linkedin.com/in/adrian-asaf-77885a41a/
