@@ -6,7 +6,7 @@ O que faço hoje
 - Infraestrutura de TI e suporte técnico
 - Sistemas internos
 
-🎯 Objetivo
+## 🎯 Objetivo
 Me tornar **Analista de Cibersegurança**.
 
 ## 🛠️ Competências
@@ -16,8 +16,9 @@ Comunicação
 Resposta a incidentes (básico) 
 Inglês técnico
 
-Projetos
+## Projetos
 - **Projeto Integrador – Confere Aí:** app para ajudar idosos a evitar golpes digitais (projeto acadêmico, em andamento)
+- **Projeto - Painel Médicus24h**
 
 Contato
 [LinkedIn]: https://www.linkedin.com/in/adrian-asaf-77885a41a/
