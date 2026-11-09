@@ -10,11 +10,7 @@ O que faço hoje
 Me tornar **Analista de Cibersegurança**.
 
 ## 🛠️ Competências
-Windows 
-LGPD 
-Comunicação 
-Resposta a incidentes (básico) 
-Inglês técnico
+Windows | LGPD  |Comunicação  |Resposta a incidentes (básico) | Inglês técnico
 
 ## Projetos
 - **Projeto Integrador – Confere Aí:** app para ajudar idosos a evitar golpes digitais (projeto acadêmico, em andamento)
